@@ -13,11 +13,6 @@ Run `env.bat` on Windows
 - OS: windows
 - Python: 3.9
 
-# Chrome Binary file
-
-- Update the chrome.exe location
-  chrome_options.binary_location = "C:/Program Files (x86)/Google/Chrome Beta/Application/chrome.exe"
-
 # Run crawling facebook data
 
 - Run a single meal: `python index.py -s search_key -n number_of_pages` <br>
